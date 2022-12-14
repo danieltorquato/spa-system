@@ -7,6 +7,7 @@ export default class Nav extends Component {
         <nav>
         <Link to={'/'}>Login</Link>
         <Link to={'/home'}>Home</Link>
+        <Link to={'/register'}>Register</Link>
       </nav>
     )
   }
